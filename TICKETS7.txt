@@ -1,0 +1,304 @@
+Attend the weekly Application Grp TEAM staff meeting
+Today I attended the weekly Application Grp TEAM staff meeting.
+
+
+
+
+Review Minute Traq training videos:
+Today I reviewed these Minute Traq training videos: 
+Session 3-Approver Training
+Session 4-Historical Data Discussion
+Session 5-e-Signature Training
+
+
+
+Work on Minute Traq training document.
+Today I began assembling a Minute Traq document to use when I am asked to compose Minute Traq training video.
+
+
+Review Cogsdale training videos
+Today I reviewed Cogsdale training videos while following along with the Cogsdale CSM app:
+Functional Testing - Payments Overview Part 1-20210824_100908-Meeting Recording.mp4
+Functional Testing - Transaction Processing Overview Part 1-20210823_110709-Meeting Recording.mp4
+Today I reviewed Cogsdale training videos while following along with the Training Guide app:
+
+
+Cogsdale Error MSG
+User received an error msg when accessing CSM Smart List Error.
+After researching the error msg, I refreshed user's accont on the server and she was able to login afterwards.
+
+
+
+Attend Weekly Jefferson & Cogsdale Project Status Review meeting
+and 2 other Cogsdale meetings.
+Today I attended the following Cogsdale meetings:
+Weekly Jefferson & Cogsdale Project Status Review
+Review Data Conversion #4 Results
+Service Order setup show and tell
+
+
+
+
+and Attend Data Validation & Functional Testing - Check Point meeting
+
+Today I attended the Weekly Jefferson & Cogsdale Project Status meeting
+and Attended Data Validation & Functional Testing - Check Point meeting
+
+Attend the Data Validation & Functional Testing - Check Point Meeting
+Today I attended the Data Validation & Functional Testing - Check Point 
+
+Review Cogsdale training videos
+Today I reviewed Cogsdale training videos:
+CSM Training - Bankruptcy, Collection Agency and write-off-20220323.mp4
+
+FUNCTIONAL TESTING- Payments 
+FUNCTIONAL TESTING-Smartlist Builder 
+
+
+
+GENERAL NAVIGATION- Transactions
+FUNCTIONAL TESTING-TRANSACTIONS PART 1
+
+Accounts Receivable
+Master Records - AM Session
+
+
+Gen Nav Jefferson County - PM Session
+Master Records - AM Session 
+Master Records - Equipment and Connections
+GB Nav (Missing Section)  GP and CSM User Preferences
+Gen Nav Jefferson County Q and A Session
+
+
+Gen Nav Jefferson County - AM Session
+
+Core Team Training- CSM General Navigation Day 1
+Core Team Training- CSM General Navigation Day 2
+
+
+ERP (CSM) System Administration Training Day 1 Part 1
+ERP (CSM) System Administration Training Day 1 Part 2
+ERP (CSM) System Administration Training Day 2
+
+
+
+
+
+Attend Cogsdale Data Mapping Session
+Today I attended Cogsdale Data Mapping Session
+
+
+Applications Team Management Report 
+Update the Applications Team Management Report located on Microsoft Teams.
+After reviewing my notes and emails taken during meetings I attended this week, I updated the Word document on the Land Management Teams Page
+
+Today I attended the Cogsdale/Jefferson - Billing Training-11-4-21
+I also reviewed Cogsdale training videos while following along with the Cogsdale CSM app:
+Core Team Training- CSM General Navigation Day 1
+Core Team Training- CSM General Navigation Day 2
+
+
+
+
+Review Cogsdale training videos
+Functional Testing - Smartlist Builder Training -20210825_100419-Meeting Recording.mp4/
+Core Team Training - CSM Smartlist-20210715_110443-Meeting Recording.mp4
+
+
+
+
+ERP (CSM) System Administration Training Day 2
+
+Billing Training Part #1
+Billing Training Part #2
+
+Transactions-10-21-21
+Gen Nav Jefferson County - AM Session-10-14-21
+Gen Nav Jefferson County - PM Session
+GB Nav (Missing Section)  GP and CSM User Preferences
+
+
+
+
+
+
+
+
+
+ERP (CSM) System Administration Training Day 1 Part 1
+ERP (CSM) System Administration Training Day 1 Part 2
+ERP (CSM) System Administration Training Day 2-10-13-21
+
+
+
+
+SMART LIST BUILDER-8-27-21
+
+
+
+
+Listen to DEVELOPu Personal Learning Audio Book
+Today I listened to Audio Book:
+3The Power of Understanding People The Key to Strengthening Relationships, Increasing Sales, and Enhancing Organizational Performance: Books24x7-The_Power_of_Understanding_People-Audio_6
+
+
+Take DEVELOPu course.
+Today I took the following DevelopU course:
+Books24x7-Customer_Experience_for_Dummies-Audio_
+Books24x7-Customer_Experience_for_Dummies-Audio_4
+
+
+
+
+
+Take DEVELOPu course.
+Today I took the following DevelopU courses:
+DEVELOPu-Opening Doors to Teamwork and Collaboration 4 Keys That Change Everything
+
+
+DevelopU Books Audio Books24x7-Opening_Doors_to_Teamwork_and_Collaboration-Audio_1
+
+Books24x7-Opening_Doors_to_Teamwork_and_Collaboration-Audio_2
+Books24x7-Customer_Experience_for_Dummies-Audio_1
+
+Retook Introduction to SQL training while using the SQL Server Management Studio.
+
+
+Introduction to SQL  SQL Database in a Nutshell
+Become a Great Listener
+Clarity and Conciseness in Business Writing
+
+
+
+
+
+Attend the Data Validation & Functional Testing - Check Point Meeting and the
+Weekly Jefferson & Cogsdale Project Status Review meeting
+Today I attended the Data Validation & Functional Testing - Check Point Meeting 
+
+PBJC
+
+Review PBJC Training Webinars
+
+Today I reviewed the following PBJC Training Webinars:
+Know your Role on your Team
+Enhancing Workplace Culture
+Fun Ways to Stay Connected while Social Distancing
+Review JIRA tickets  
+
+I reviewed the recently closed Cogsdale JIRA tickets and emailed the list of closed tickets to ESD.
+
+PBJC Training Webinars
+
+Review PBJC Training Webinars
+
+Today I reviewed the following PBJC Training Webinars and others:
+The Professional S.M.I.L.E.
+Customer Service in Government
+Improving your Delegation Skills
+
+
+
+
+Trainer Talk! Tips and Tricks for Successful Employee Documentation
+Trainer Talk! Customer Service in Government
+Improving your Delegation Skills
+
+
+
+The Seven Benefits of Coaching
+Five Benefits of Coaching your Employees
+The Professional S.M.I.L.E.
+
+Cogsdale-JIRA Ticket
+
+User received an error when testing a case in Test Rail.
+
+Today I reviewed and Forwarded JIRA tickets information to different members of the team that needed to be updated.
+Today I reviewed and Updated Test Rail with information for JIRA Tickets.
+Routed all the updated JIRA tickets to all the different users who created the tickets.
+Handle Cogsdale-JIRA Ticket updates
+Today I reviewed and Forwarded JIRA ticket information for the ticket below:
+AGates commented: CSUP-27360   Leo- FAIL-T39236 CONFIRM NOTICES & T39237 FURTHER NOTICE STEPS 
+The collection notices are not complete - this will fail until it is completed
+
+Update Test Rail with JIRA ticket information.
+
+I monitored and updated Test Rail with info from open JIRA tickets.
+CSUP-26630 -  Serial Number -Failed test for Graysville private meters Take # 4 
+
+
+JIRA TICKET(CSUP-26250) - Bill Template Measurements
+CSUP-25176   Testing by customer number in T27 and not route and location ID
+
+Today I reviewed and Forwarded JIRA tickets information.
+
+Current Workload Discussion
+
+Just to get a feel for what you currently have on your plate.
+
+
+CSM Testing - War Room
+Attend the  CSM Testing - War Room using Microsoft Teams.
+
+I made myself available to create JIRA tickets from the CSM Testing - War Room using Microsoft Teams and reviewed several Test Rail cases
+
+Attend Weekly Jefferson & Cogsdale Project Status Review meeting
+Today I attended the Weekly Jefferson & Cogsdale Project Status meeting
+
+
+
+
+Cogsdale Test Rail 
+Work on updating/editing the test case documentation from Test Rail
+Updated Test Rail and JIRA with the new updates as they came in throughout the day. Including the ones below:
+Status Change CSUP-26658   Location Consolidation - Conversion Updates 
+Status Change CSUP-26784   Convert Active Connections and Meters for All Locations 
+Status Change CSUP-26990   DS CSM Meter Read Validation - Location Not Found 
+Status Change CSUP-25401   Data Conversion Take # 3- NUMBER OF DAYS FAIL 
+
+
+Reviewed several Test Rail cases to learn how to modify the Test Scripts to show step by illustrations to make it easier for the testers to complete their assigned test case.
+
+Today I modified several Cogsdale CSM How To Documents. 
+While reviewing the Cogsdale Training Videos below, I worked on a How To document:
+Service Order setup show and tell-20220201_150154-Meeting Recording.mp4
+
+
+Rate Updates-20220202_143507-Meeting Recording.mp4
+
+Today I completed the Cogsdale How To Document on How To modify Rate Updates in CSM.
+
+Today I completed the Cogsdale How To Document on HOW TO CREATE A SEVICE ORDER in CSM.
+
+
+Today I began work on Cogsdale's HOW TO HOW TO BUILD A SMARTLIST
+
+Today I began work on Cogsdale's How To: Setup User Configuration document in CSM.
+
+Today I worked on the Cogsdale How To document tilted:
+HOW TO BUILD A SMARTLIST while using this training video:
+4-
+
+Review Cogsdale training videos
+Today I reviewed Cogsdale training videos while following along with the Cogsdale CSM app:
+ERP (CSM) System Administration Training Day 1 Part 1
+ERP (CSM) System Administration Training Day 1 Part 2
+ERP (CSM) System Administration Training Day 2
+
+
+Today I reviewed this Cogsdale training video and training document:
+Gen Nav Jefferson County - AM Session.mp4
+
+Review Minute Traq training videos:
+Today I reviewed the following Minute Traq videos and documents.
+Session 6-New Implementations
+Session 7-Agenda Wizard
+Session 8-AMinutes Maker
+
+Work on Minute Traq training document.
+Today I began assembling a Minute Traq document to use when I am asked to compose Minute Traq training video.
+
+172.31.60.4- silverblaze
+
+usrmst / usrdtl / logacc  database tables
